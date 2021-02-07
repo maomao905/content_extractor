@@ -1,6 +1,6 @@
 ### Content Extraction API
-- Extract main content from HTML excluding boilerplate (advertisement, SNS links, sidebars etc..)
-It uses the features below and create a classifier whether it's main content or not. The model used for training is XGBoost with manual data of 600 articles and 80,000 labels (I labeled each block whether it's main content or not, thus one article has many bocks, so it has many labels per article)  
+- Extract main content from HTML excluding boilerplate (advertisement, SNS links, sidebars etc..)  
+It uses the features below and create a classifier whether it's main content or not. The model used for training is XGBoost with manual data of 600 articles and 80,000 labels. (I labeled each block whether it's main content or not, thus one article has many bocks, so it has many labels per article)    
 ※ The training data and the model file are not included in this repository.
 
 #### features

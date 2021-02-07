@@ -1,0 +1,11 @@
+Flask==1.0.2
+beautifulsoup4==4.7.1
+requests==2.21.0
+lxml==4.3.3
+scikit-learn==0.21.1
+networkx==2.3
+pandas==0.24.2
+dill==0.2.9
+xgboost==0.90
+gunicorn==19.9.0
+pyyaml==5.1.1
